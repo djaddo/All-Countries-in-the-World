@@ -5,9 +5,10 @@ You can find it useful for dropdown lists/selects for your apps when a list of c
 
 The list is alphabetically ordered, so you can just copy/paste it.
 
-There are two versions: 
+There are three versions: 
  - PLAIN TEXT
  - HTML ready
+ - JS Array
  
 
 If you notice any mistakes or updates needed please let me know.
