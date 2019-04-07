@@ -1,9 +1,13 @@
 # All Countries in the World
-List of all countries in the world - Plain text - **2019**
+List of all countries in the world **2019**
 
 You can find it useful for dropdown lists/selects for your apps when a list of countries is needed.
 
-The list is alphabeticaly ordered, so you can just copy/paste it.
+The list is alphabetically ordered, so you can just copy/paste it.
+
+There are two versions: 
+ - PLAIN TEXT
+ - HTML <select> <option>
 
 If you notice any mistakes or updates needed please let me know.
 
