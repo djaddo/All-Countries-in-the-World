@@ -7,7 +7,8 @@ The list is alphabetically ordered, so you can just copy/paste it.
 
 There are two versions: 
  - PLAIN TEXT
- - HTML <select> <option>
+ - HTML ready
+ 
 
 If you notice any mistakes or updates needed please let me know.
 
